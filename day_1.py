@@ -1,3 +1,4 @@
+
 # Get input
 input_file = "day_1_input.txt"
 with open(input_file) as f:
